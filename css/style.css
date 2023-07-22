@@ -6,6 +6,7 @@
     padding: 0;
     line-height: normal;
     font-family: 'Montserrat', sans-serif;
+    
 }
 
 /* container gpt index  */
@@ -328,9 +329,12 @@ label{
 .who1{
 display: flex;
 justify-content: center;
+color:white
 }
 
-
+p{
+  color:white
+}
 .hr1{
   margin-top: 130;
 }
@@ -370,7 +374,6 @@ padding:0 }
   .p5{
     line-height: 1.5;
     margin-bottom:10px;
- 
   }
   .interviews{
     padding-top:200px;
@@ -397,7 +400,7 @@ header{
   color:whitesmoke
 }
 .nav-item{
-  color:whitesmoke
+  color:whitesmoke;
 }
 
     .item {
@@ -428,9 +431,8 @@ header{
     color: #FFF;
     font-size: 1.4em;
     background-color:black;
-    
+  
   }
-
 
 
   @media (max-width: 768px) {
