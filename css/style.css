@@ -380,13 +380,9 @@ padding:0 }
   }
 .a4{margin-left:20px;}
 .ul4{margin-top: 140px;}
-  .navbar2{display:block;
-  position:fixed;
-width: 100%;}
-.headerindex{display:none;}
-.nav1{
-  display: none;
-}
+
+
+
 header{
   position:fixed;
 }
